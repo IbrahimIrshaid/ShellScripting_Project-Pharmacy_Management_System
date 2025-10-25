@@ -1,0 +1,3 @@
+ubuntu   seat0        2025-05-04 09:00 (login screen)
+ubuntu   :1           2025-05-04 09:00 (:1)
+
