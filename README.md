@@ -72,14 +72,12 @@ chmod +x PMS.txt
 
 ## 📌 Notes
 
-- 
 - Date format should always be `yyyy-mm-dd` which is checked in the inventoryMenu => addMed() function 
 - The system uses CSV-style text files for data persistence.
 - Errors and user attempts (like trying to sell a non-existent medicine) are logged for later review.
 - The salesPerMed file is used to get easily sort the top sold medicines 
 - In the update medicine info & make a sale features the program keeps dispalying a yes or no box using the dialog command dialog --yesno so the user can update as many medicines as they want 
 - The purchase history should always have a space (" ") before any purchase field because the program depends on it for inserting any new purchase feild 
-- 
 
 ---
 
